@@ -1,0 +1,3 @@
+import SchatzsucherSpiel
+
+SchatzsucherSpiel.treasure_hunter_game()
